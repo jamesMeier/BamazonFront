@@ -1,0 +1,51 @@
+h1 {
+  font-weight: bold;  
+}
+
+body{
+    background-image: url("../assets/landscape-4007310_1920.jpg");
+    background-repeat:no-repeat;
+    background-size: cover; 
+    opacity:0.9;
+    width:100%;
+}
+.hide{
+    display: none;
+}
+.home-link{
+    text-decoration: none !important;
+    font-size: 20px;
+    color: orange;
+}
+.home-link:hover{
+    color: white;
+} 
+.active{
+    margin-left:20px;
+}
+.jumbo-img{
+    position:relative;
+    bottom:20px;
+}
+.th {
+    opacity: 100%;
+}
+
+.page-row{
+    width:100%;
+}
+.jumbotron{
+    margin-top:35px;
+    background-color: rgb(253, 207, 108); 
+}
+.btn{
+    background-color: green;
+}
+.cart-counter{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:22px;
+    position:absolute;
+    left: 100px;
+    top: 250px;
+}

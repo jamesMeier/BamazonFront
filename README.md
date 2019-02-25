@@ -1,1 +1,1 @@
-# BamazonFront
+# Bamazon
